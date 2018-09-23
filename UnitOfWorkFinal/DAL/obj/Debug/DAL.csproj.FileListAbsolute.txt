@@ -1,0 +1,15 @@
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\DAL.dll
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\DAL.pdb
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\obj\Debug\DAL.dll
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\obj\Debug\DAL.pdb
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\BOL.dll
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\BOL.pdb
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\obj\Debug\DAL.csproj.CopyComplete
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\DAL.dll.config
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\EntityFramework.dll
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\BOL.dll.config
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\EntityFramework.xml
+c:\users\win\source\repos\UnitOfWorkFinal\DAL\bin\Debug\EntityFramework.SqlServer.xml
