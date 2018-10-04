@@ -10,3 +10,15 @@ c:\users\win\source\repos\UnitOfWorkFinal\BOL\bin\Debug\EntityFramework.SqlServe
 c:\users\win\source\repos\UnitOfWorkFinal\BOL\bin\Debug\EntityFramework.xml
 c:\users\win\source\repos\UnitOfWorkFinal\BOL\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\win\source\repos\UnitOfWorkFinal\BOL\obj\Debug\BOL.csproj.CopyComplete
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\bin\Debug\BOL.dll.config
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\bin\Debug\BOL.dll
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\bin\Debug\BOL.pdb
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\bin\Debug\EntityFramework.dll
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\bin\Debug\EntityFramework.SqlServer.dll
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\bin\Debug\EntityFramework.xml
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\bin\Debug\EntityFramework.SqlServer.xml
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\obj\Debug\BOL.csproj.CopyComplete
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\obj\Debug\BOL.dll
+F:\temp\c#\lab\unitofwork\UnitOfWorkFinal\BOL\obj\Debug\BOL.pdb
